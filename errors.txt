@@ -1,0 +1,7 @@
+### SYNTAX ERROR
+
+File "/home/elevynn/lpthw/ex7.py", line 30
+    print(end1 + end2 + end3 + end4 + end5 + end6 end=' ')
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
