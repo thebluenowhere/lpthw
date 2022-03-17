@@ -12,3 +12,5 @@ SyntaxError: invalid syntax. Perhaps you forgot a comma?
          ^
 SyntaxError: '(' was never closed
 
+### VALUE ERROR
+ValueError: not enough values to unpack (expected 2, got 1)
