@@ -7,7 +7,7 @@
 from sys import argv
 
 script, first_name, last_name = argv
-prompt = '> '
+prompt = ': '
 user_name = first_name + " " + last_name
 
 print(f"Hi {user_name}, I'm the {script} script.")
